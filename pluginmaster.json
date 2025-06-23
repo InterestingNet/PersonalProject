@@ -1,0 +1,27 @@
+{
+    "Author": "HiddenNet",
+    "Name": "PersonalPluginRepo",
+    "Punchline": "Plugin repo for personal use",
+    "Description": "A personal Dalamud plugin repository containing PersonalProject.",
+    "RepoUrl": "",
+    "IconUrl": "",
+    "PluginCount": 1,
+    "Plugins": [
+        {
+            "InternalName": "PersonalProject",
+            "Name": "PersonalProject",
+            "AssemblyVersion": "1.0.5.7",
+            "Description": "PersonalFun",
+            "Punchline": "PersonalPluginforfun",
+            "RepoUrl": "",
+            "ApplicableVersion": "any",
+            "Tags": [],
+            "DalamudApiLevel": 8,
+            "DownloadLinkInstall": "https://raw.githubusercontent.com/YourUsername/PersonalProject/main/PersonalProject.zip",
+            "DownloadLinkTesting": "",
+            "DownloadLinkUpdate": "",
+            "IconUrl": "",
+            "Author": "HiddenNet"
+        }
+    ]
+}
