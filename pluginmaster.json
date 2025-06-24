@@ -1,0 +1,31 @@
+{
+  "Author": "InterestingNet",
+  "Name": "PersonalProject",
+  "Punchline": "Dalamud plugin repo for PlayerScope",
+  "Description": "Contains the PlayerScope plugin.",
+  "RepoUrl": "https://github.com/InterestingNet/PersonalProject",
+  "IconUrl": "",
+  "PluginCount": 1,
+  "Plugins": [
+    {
+      "Author": "InterestingNet",
+      "Name": "PlayerScope",
+      "Punchline": "Enhanced player inspector",
+      "Description": "Shows detailed player info in FFXIV",
+      "InternalName": "PlayerScope",
+      "AssemblyVersion": "1.0.0.0",
+      "DalamudApiLevel": 9,
+      "RepoUrl": "https://github.com/InterestingNet/PersonalProject",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "utility"
+      ],
+      "DownloadLinkInstall": "https://github.com/InterestingNet/PersonalProject/releases/latest/download/PlayerScope.zip",
+      "DownloadLinkTesting": "",
+      "DownloadLinkUpdate": "",
+      "ImageUrls": [],
+      "IconUrl": "",
+      "Changelog": "Initial release"
+    }
+  ]
+}
